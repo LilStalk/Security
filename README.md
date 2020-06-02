@@ -39,6 +39,8 @@ hashid <hash> - Identifies the hashtype
 scanurl <url> - Scan URL using VirusTotal
 layer7 - Gives a URL to attack
 layer7stats - Displays the results of the attack in real time
+urlinfo - Displays URL infos.
+bitly - Displays the intermediate url.
 ```
 
 ## Contributing
